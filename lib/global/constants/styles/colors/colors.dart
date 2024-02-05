@@ -1,0 +1,23 @@
+import 'package:flutter/material.dart';
+
+const kBg = Color(0XFFF5F3CF);
+const kRed = Color(0XFFB00020);
+const kGold = Color(0XFFE2C792);
+const kGrey = Color(0XFF6F7070);
+const kBlue = Color.fromARGB(255, 191, 219, 244);
+const kLightBlue = Color.fromARGB(255, 240, 244, 246);
+const kFail = Color(0XFFFD5151);
+const kGreen = Color(0XFF7FC241);
+const kBlack = Color(0XFF000000);
+const kBrown = Color(0XFF563E26);
+const kWhite = Color(0XFFFFFFFF);
+const kNavClr = Color(0XFFEAEEF2);
+const kBtnBdr = Color(0XFFF1F3F6);
+const kTrans = Colors.transparent;
+const kYellow = Color(0XFFF0E3C8);
+const kTxtFld = Color(0XFFF3F3F3);
+const kBillBlack = Color(0XFF2A2A2A);
+const kBackgroundPink = Color(0xffFFE1E1);
+const kLightRed = Color(0xffF9E9EB);
+const kListRed = Color(0xffF8EDEE);
+const kPeach = Color(0xffEF7A89);
